@@ -1,0 +1,55 @@
+Html means hypertext markup language
+This is used to create web pages.
+
+Full page will be drawn inside the <html> tag
+and the metadata/SEO/ Title are written inside the <head> tag
+
+And the content that we see and interact in the webpage, are written in the body tag
+<body>
+
+
+Semantics tags
+    <h1> -> <h6>
+    <p>
+    <a>
+    <ul> <ol>
+    <table> <tr> <td>
+    <img>
+    <form>
+    <input>
+
+
+Structure
+    html
+    head
+    body
+    main
+    aside
+    footer
+    article
+    section
+    nav
+
+
+Formatting
+    <b>  ->bold
+    <i>  -> italic
+    <u>  ->underline
+    <s>  ->strike, means text will be stroken form middle
+    <strong>  -> bold and power.
+    <em>
+    <sup> <sub>  --> sup is for superscript, means like 2 raised to power 3
+    will be written as 2<sup>3</sup> . and sub is for subscript, the way we write no. of molecules is a compund. example oxygen O2 will be written as O<sub>2</sub>.
+    <pre>--> prints exactly the way you write in the code
+    <code>
+
+
+Self closing tags
+    are the tags that do not have separate closing tag for it as </tag>
+    Examples-> <img/>
+        <input/>
+        <br/>
+    
+        <hr/>  , etc
+
+H.W   -> read about discription tag

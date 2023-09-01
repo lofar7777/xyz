@@ -1,0 +1,4 @@
+emmet --> is used to type big formats with shortcuts
+for ex-> if we need a pragraph inside a para inside another para,
+so we will directly write p>p>p
+and it will give the above expeccted output
